@@ -5,7 +5,7 @@
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
         <LangVersion>8</LangVersion>
         <Nullable>enable</Nullable>
-        <Version>0.0.0</Version>
+        <Version>0.0.1</Version>
         <Title>LibVRF.Net</Title>
         <Authors>Skird</Authors>
         <Description>Netstandard 2.1 wrapper for LibVRF (https://github.com/witnet/vrf-rs) library. Use LibVRF.Native package to get platform specific binaries for common platforms.</Description>
